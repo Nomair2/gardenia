@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "837239169611",
+    "project_id": "gardenia-5d43e",
+    "storage_bucket": "gardenia-5d43e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837239169611:android:dba7efd7e123b3e97b23ce",
+        "android_client_info": {
+          "package_name": "com.example.gardenia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAovz0ooYL2-RZzbQyfYKEzOJoQNGT3vkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
